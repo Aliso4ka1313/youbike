@@ -1,0 +1,16 @@
+body {
+	background: url(../img/background.jpg);
+}
+
+header {
+	background: #085699;
+}
+ li {
+	display: inline-block;
+	list-style: none;
+
+}
+a {
+	text-decoration: none;
+}
+
